@@ -1,2 +1,2 @@
 # newrepo
-just to try
+just to try ON GIT AND GIT HUB
